@@ -2,3 +2,9 @@
     color:brown;
     font-size:larger;
 }
+
+.image{
+    float: left;
+    height: 95%;
+    width: 95%;
+}
